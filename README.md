@@ -19,7 +19,7 @@ git clone https://github.com/bobmaker/trevorxV1.git
   <summary><strong> Kalo Udah Install Di Atas jalanin yang di bawah juga ya!</strong></summary>
 
   ```
-  cd  RtmTracking
+  cd  leaked-vx2
 pip3 install -r requirements.txt
 python3 trevorxv1.py
   ```
